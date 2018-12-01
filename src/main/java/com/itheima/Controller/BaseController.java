@@ -5,5 +5,6 @@ public class BaseController {
     public static void main(String[] args) {
         System.out.println("这个是将idea中的工程提交到gitbub中");
         System.out.println("这个是右边的动作类修改的文件");
+        System.out.println("这个是左边的工程提交的动作类");
     }
 }
